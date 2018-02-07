@@ -1,0 +1,27 @@
+body {
+  background-image: url('../Images/fresh_snow/fresh_snow.png');
+  }
+
+header {
+   margin-bottom:40px;
+}
+
+#contact-info {
+text-align:center;
+}
+
+#linkedin
+#github
+#portfolio {
+  float:left;
+}
+
+h6 {
+  text-align: center;
+  padding: 25px;
+}
+
+footer {
+   background-color: gray;
+   margin-top: 150px;
+}
